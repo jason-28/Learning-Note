@@ -11,7 +11,7 @@
 
 ## AZURE
 
-### 1.[基礎概念](https://docs.microsoft.com/zh-tw/learn/modules/fundamental-azure-concepts/)
+### 1.[討論AZURE基礎概念](https://docs.microsoft.com/zh-tw/learn/modules/fundamental-azure-concepts/)
 
 上述提到的雲端模型可分為公用、私用、混合式
 
