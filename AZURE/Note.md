@@ -1,6 +1,6 @@
 # Source:Microsoft官網
 
-## 雲端運算
+## [Azure基礎簡介](https://docs.microsoft.com/zh-tw/learn/modules/intro-to-azure-fundamentals/)
 
 雲端運算使用隨用隨付價格模型，透過網際網路傳遞計算服務。 通常只須支付所用的雲端服務費用。
 
