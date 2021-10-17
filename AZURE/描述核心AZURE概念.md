@@ -18,7 +18,7 @@
 
 * 能夠停止為不再需要的資源付費
 
-### [討論AZURE基礎概念](https://docs.microsoft.com/zh-tw/learn/modules/fundamental-azure-concepts/)
+## [討論AZURE基礎概念](https://docs.microsoft.com/zh-tw/learn/modules/fundamental-azure-concepts/)
 
 雲端模型可分為**公用、私用、混合式**
 
@@ -93,3 +93,6 @@
 * 此方法可讓開發人員更專注於商務邏輯，並傳遞更多價值給業務核心。
 
 * 無伺服器運算可協助小組提升生產力，而更快地將產品帶入市場，這可讓組織最佳化資源並專注於創新。
+
+## [描述核心Azure 架構元件](https://docs.microsoft.com/zh-tw/learn/modules/azure-architecture-fundamentals/)
+
