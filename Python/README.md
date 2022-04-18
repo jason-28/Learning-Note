@@ -9,3 +9,5 @@ https://medium.com/jimmy-wang/python-numpy-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-
 https://medium.com/jimmy-wang/python-numpy-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-ufunc-np-003-f3bd3ebbbe4a
 
 https://hackmd.io/@cube/H1qxGMy7Y
+
+https://zhuanlan.zhihu.com/p/38184619
