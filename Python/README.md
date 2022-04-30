@@ -19,3 +19,5 @@ https://www.delftstack.com/zh-tw/
 https://machine-learning-python.kspax.io/classification/ex1_recognizing_hand-written_digits
 
 https://www.twblogs.net/a/5c9283f1bd9eee35cd6b9e68
+
+https://www.twblogs.net/a/5c544ad1bd9eee06ef3645ec
