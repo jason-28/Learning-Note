@@ -21,3 +21,6 @@ https://machine-learning-python.kspax.io/classification/ex1_recognizing_hand-wri
 https://www.twblogs.net/a/5c9283f1bd9eee35cd6b9e68
 
 https://www.twblogs.net/a/5c544ad1bd9eee06ef3645ec
+
+https://www.twblogs.net/a/5b8a6a822b71775d1ce6e6f4
+
