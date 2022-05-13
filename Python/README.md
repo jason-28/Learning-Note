@@ -24,3 +24,6 @@ https://www.twblogs.net/a/5c544ad1bd9eee06ef3645ec
 
 https://www.twblogs.net/a/5b8a6a822b71775d1ce6e6f4
 
+https://kknews.cc/zh-tw/news/qv5v58g.html
+
+http://www.taroballz.com/2019/05/15/ML_decision_tree_detail/
