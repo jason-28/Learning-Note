@@ -62,9 +62,12 @@ WHERE name LIKE 'N%'
 
 ## Show the name and the continent - but substitute Eurasia for Europe and Asia; substitute America - for each country in North America or South America or Caribbean. Show countries beginning with A or B
 
-SELECT name,CASE WHEN continent='Europe' or continent='Asia' THEN 'Eurasia'
+SELECT name,
+CASE WHEN continent='Europe' or continent='Asia' THEN 'Eurasia'
+
 WHEN continent='North America' or continent='South America' or continent='Caribbean' THEN 'America'
      ELSE continent END as newcontinent
+     
 FROM world
 WHERE name LIKE 'A%' or name LIKE 'B%'
 
@@ -79,9 +82,13 @@ WHERE name LIKE 'A%' or name LIKE 'B%'
 * Show the name, the original continent and the new continent of all countries.
 
 SELECT name,continent,
+
        CASE WHEN continent='Oceania' THEN 'Australasia'
+       
 WHEN continent='Eurasia' or continent='Turkey' THEN 'Europe/Asia'
+
 WHEN continent='Caribbean' and name like 'B%' THEN 'North America'
 WHEN continent='Caribbean' and name not like 'B%' THEN 'South America'
+
             ELSE continent END as newcontinent
 FROM world
