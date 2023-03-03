@@ -80,8 +80,7 @@ WHERE name LIKE 'A%' or name LIKE 'B%'
 * Caribbean islands starting with 'B' go to North America, other Caribbean islands go to South America
 
 SELECT name,continent,
-
-       CASE WHEN continent='Oceania' THEN 'Australasia'
+CASE WHEN continent='Oceania' THEN 'Australasia'
        
 WHEN continent='Eurasia' or continent='Turkey' THEN 'Europe/Asia'
 
