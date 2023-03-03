@@ -87,5 +87,5 @@ WHEN continent='Eurasia' or continent='Turkey' THEN 'Europe/Asia'
 WHEN continent='Caribbean' and name like 'B%' THEN 'North America'
 WHEN continent='Caribbean' and name not like 'B%' THEN 'South America'
 
-            ELSE continent END as newcontinent
+ELSE continent END as newcontinent
 FROM world
