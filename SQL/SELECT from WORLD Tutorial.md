@@ -32,13 +32,13 @@
 
 ## Exclusive OR (XOR). Show the countries that are big by area (more than 3 million) or big by population (more than 250 million) but not both. Show name, population and area.。顯示以人口或面積為大國的國家名稱、人口和面積，但排除兩者兼顧的國家(美國、印度和中國)。
 
-* Australia has a big area but a small population, it should be included.
+### Australia has a big area but a small population, it should be included.
 
-* Indonesia has a big population but a small area, it should be included.
+### Indonesia has a big population but a small area, it should be included.
 
-* China has a big population and big area, it should be excluded.
+### China has a big population and big area, it should be excluded.
 
-* United Kingdom has a small population and a small area, it should be excluded.
+### United Kingdom has a small population and a small area, it should be excluded.
 
      SELECT name,population,area FROM world
      WHERE (area>3000000 or population>250000000) and name not in ('United States','India','China')
@@ -67,13 +67,7 @@
      ELSE continent END as newcontinent
      FROM world WHERE name LIKE 'A%' or name LIKE 'B%'
 
-## Show the name, the original continent and the new continent of all countries.
-
-* Oceania becomes Australasia
-
-* Countries in Eurasia and Turkey go to Europe/Asia
-
-* Caribbean islands starting with 'B' go to North America, other Caribbean islands go to South America
+## Show the name, the original continent and the new continent of all countries.(Oceania becomes Australasia,Countries in Eurasia and Turkey go to Europe/Asia,Caribbean islands starting with 'B' go to North America, other Caribbean islands go to South America
 
      SELECT name,continent,
      CASE WHEN continent='Oceania' THEN 'Australasia'
