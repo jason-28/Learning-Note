@@ -63,10 +63,8 @@
 
      SELECT name,
      CASE WHEN continent in ('Eurasia','Turkey') THEN 'Europe/Asia'
-
      WHEN continent in ('North America','South America','Caribbean') THEN 'America'
      ELSE continent END as newcontinent
-     
      FROM world WHERE name LIKE 'A%' or name LIKE 'B%'
 
 ## Show the name, the original continent and the new continent of all countries.
@@ -79,10 +77,7 @@
 
      SELECT name,continent,
      CASE WHEN continent='Oceania' THEN 'Australasia'
-       
      WHEN continent in ('Eurasia','Turkey') THEN 'Europe/Asia'
-
      WHEN continent='Caribbean' and name like 'B%' THEN 'North America'
      WHEN continent='Caribbean' and name not like 'B%' THEN 'South America'
-
      ELSE continent END as newcontinent FROM world
