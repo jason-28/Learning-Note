@@ -26,8 +26,8 @@
       
 ## Show all details (yr, subject, winner) of the literature prize winners for 1980 to 1989 inclusive.顯示1980年至1989年(包含)的文學獎獲獎者所有細節 
 
-SELECT * FROM nobel
-WHERE 1980 <=yr and yr<=1989 and subject='Literature'
+      SELECT * FROM nobel
+      WHERE 1980 <=yr and yr<=1989 and subject='Literature'
       
 ## Show all details of the presidential winners:Theodore Roosevelt,Thomas Woodrow Wilson,Jimmy Carter,Barack Obama 
 
