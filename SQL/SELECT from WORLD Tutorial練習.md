@@ -82,7 +82,7 @@ WHERE name LIKE 'A%' or name LIKE 'B%'
 SELECT name,continent,
 CASE WHEN continent='Oceania' THEN 'Australasia'
        
-WHEN continent='Eurasia' or continent='Turkey' THEN 'Europe/Asia'
+WHEN continent in ('Eurasia','Turkey') THEN 'Europe/Asia'
 
 WHEN continent='Caribbean' and name like 'B%' THEN 'North America'
 WHEN continent='Caribbean' and name not like 'B%' THEN 'South America'
