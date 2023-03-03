@@ -79,8 +79,6 @@ WHERE name LIKE 'A%' or name LIKE 'B%'
 
 * Caribbean islands starting with 'B' go to North America, other Caribbean islands go to South America
 
-* Show the name, the original continent and the new continent of all countries.
-
 SELECT name,continent,
 
        CASE WHEN continent='Oceania' THEN 'Australasia'
