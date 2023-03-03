@@ -3,6 +3,5 @@
 ## displays Nobel prizes for 1950顯示1950年諾貝爾獎的獎項資料
 
   SELECT yr, subject, winner
-  FROM nobel
-  WHERE yr = 1950
+  FROM nobel WHERE yr = 1950
   
