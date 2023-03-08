@@ -45,4 +45,10 @@
     (SELECT area FROM world y
     WHERE y.continent=x.continent AND area>0)
     
-##    
+## List each continent and the name of the country that comes first alphabetically.
+
+   SELECT continent, name FROM world x
+   WHERE name=(SELECT min(name) FROM world y
+   WHERE y.continent=x.continent)
+
+## 
