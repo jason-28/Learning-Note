@@ -2,7 +2,7 @@
 
 ## 線上練習:
 
-[SELECT from WORLD Tutoria](https://github.com/jason-28/Learning-Note/blob/main/SQL/SELECT%20from%20WORLD%20Tutorial.md)
+[SELECT from WORLD Tutorial](https://github.com/jason-28/Learning-Note/blob/main/SQL/SELECT%20from%20WORLD%20Tutorial.md)
 
 [SELECT from Nobel Tutorial](https://github.com/jason-28/Learning-Note/blob/main/SQL/SELECT%20from%20Nobel%20Tutorial.md)
 
