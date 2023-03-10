@@ -67,4 +67,10 @@
     
  ## For every match where 'GER' scored, show matchid, match date and the number of goals scored by 'GER'
  
+    SELECT matchid,mdate,COUNT(gtime)
+    FROM game JOIN goal ON matchid = id 
+    WHERE  teamid='GER'
+    GROUP BY matchid,mdate
  
+## List every match with the goals scored by each team as shown,Sort your result by mdate, matchid, team1 and team2.
+
