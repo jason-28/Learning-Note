@@ -11,3 +11,5 @@
 [SUM_and_COUNT](https://github.com/jason-28/Learning-Note/blob/main/SQL/SUM_and_COUNT.md)
 
 [The JOIN operation](https://github.com/jason-28/Learning-Note/blob/main/SQL/The%20JOIN%20operation.md)
+
+[More JOIN operations](https://github.com/jason-28/Learning-Note/blob/main/SQL/More%20JOIN%20operations.md)
