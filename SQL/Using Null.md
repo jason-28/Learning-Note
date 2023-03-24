@@ -32,3 +32,8 @@
     
 ## Use COUNT to show the number of teachers and the number of mobile phones.
 
+    SELECT COUNT(name), COUNT(mobile)
+    FROM teacher 
+    
+## Use COUNT and GROUP BY dept.name to show each department and the number of staff. Use a RIGHT JOIN to ensure that the Engineering department is listed.
+
