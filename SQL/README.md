@@ -13,3 +13,5 @@
 [The JOIN operation](https://github.com/jason-28/Learning-Note/blob/main/SQL/The%20JOIN%20operation.md)
 
 [More JOIN operations](https://github.com/jason-28/Learning-Note/blob/main/SQL/More%20JOIN%20operations.md)
+
+[Self join](https://github.com/jason-28/Learning-Note/blob/main/SQL/Self%20join.md)
