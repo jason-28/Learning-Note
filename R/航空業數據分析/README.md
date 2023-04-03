@@ -41,3 +41,5 @@
 ![image](https://github.com/jason-28/Learning-Note/blob/main/R/%E8%88%AA%E7%A9%BA%E6%A5%AD%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/img/3.png)
 
 =>可知男性客群遠多於女性客群，建議推出針對男性客戶之方案或活動以鎖住長期客戶。
+
+[Code](https://github.com/jason-28/Learning-Note/blob/main/R/%E8%88%AA%E7%A9%BA%E6%A5%AD%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.R)
