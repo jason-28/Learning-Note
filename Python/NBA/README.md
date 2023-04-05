@@ -18,7 +18,7 @@
 
 ## 資料前處理
 
-## [資料來源](https://www.kaggle.com/datasets/justinas/nba-players-data)
+### [資料來源](https://www.kaggle.com/datasets/justinas/nba-players-data)
 
 * 缺失值處理
 
@@ -32,8 +32,10 @@
 
 ![img](https://github.com/jason-28/Learning-Note/blob/main/img/%E7%90%83%E5%93%A1%E6%98%AF%E5%90%A6%E9%80%8F%E9%81%8E%E9%81%B8%E7%A7%80%E5%8A%A0%E5%85%A5%E8%81%AF%E7%9B%9F.png)
 
-* 新建欄位**是否為美國人**
+* 新增欄位**是否為美國人**
 
 ![img](https://github.com/jason-28/Learning-Note/blob/main/img/%E6%98%AF%E5%90%A6%E7%82%BA%E7%BE%8E%E5%9C%8B%E6%9C%AC%E5%9C%9F%E7%90%83%E5%93%A1.jpg)
 
 ![img](https://github.com/jason-28/Learning-Note/blob/main/img/%E7%90%83%E5%93%A1%E7%82%BA%E7%BE%8E%E5%9C%8B%E4%BA%BA%E7%9A%84%E6%AF%94%E4%BE%8B.png)
+
+
