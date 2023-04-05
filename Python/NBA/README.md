@@ -1,6 +1,6 @@
 # NBA自1996至2021年的變化
 
-### [Code](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/NBA_Project.ipynb)
+## [Code](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/NBA_Project.ipynb)
 
 ## 研究背景
 
