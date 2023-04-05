@@ -7,3 +7,7 @@
 [假新聞輿論之影響(Python)](https://github.com/jason-28/Visual-Analytics-Final)
 
 [智慧手環分析(SAS、Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0%E5%88%86%E6%9E%90.md)
+
+
+
+[NBA自1996至2021年的變化(Python、PowerBI)](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/README.md)
