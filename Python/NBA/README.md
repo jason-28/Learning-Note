@@ -38,4 +38,9 @@
 
 ![img](https://github.com/jason-28/Learning-Note/blob/main/img/%E7%90%83%E5%93%A1%E7%82%BA%E7%BE%8E%E5%9C%8B%E4%BA%BA%E7%9A%84%E6%AF%94%E4%BE%8B.png)
 
+### 各數值型欄位熱圖
+
+![img](https://github.com/jason-28/Learning-Note/blob/main/img/%E7%86%B1%E5%9C%96.png)
+
+* 可看出相關係數之絕對值>0.5的數值。前三高正相關的分別為:助攻及助攻率(0.8)、得分及助攻(0.66)、得分及使用率(0.64)
 
