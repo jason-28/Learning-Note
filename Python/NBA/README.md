@@ -26,7 +26,8 @@
 
 * 新建一個Dataframe : players_unique(透過去除重複球員姓名的欄位，確保某些數據統計不會出錯)
 
-* 新增欄位
+* 新增欄位**是否經過選秀**
 
 ![img](https://github.com/jason-28/Learning-Note/blob/main/img/%E6%98%AF%E5%90%A6%E7%B6%93%E9%81%8E%E9%81%B8%E7%A7%80.jpg)
 
+![img](https://github.com/jason-28/Learning-Note/blob/main/img/%E7%90%83%E5%93%A1%E6%98%AF%E5%90%A6%E9%80%8F%E9%81%8E%E9%81%B8%E7%A7%80%E5%8A%A0%E5%85%A5%E8%81%AF%E7%9B%9F.png)
