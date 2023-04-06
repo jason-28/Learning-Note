@@ -8,6 +8,6 @@
 
 [智慧手環分析(SAS、Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0%E5%88%86%E6%9E%90.md)
 
-
+[音樂劇回購率分析(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E9%9F%B3%E6%A8%82%E5%8A%87%E5%9B%9E%E8%B3%BC%E7%8E%87%E5%88%86%E6%9E%90.md)
 
 [NBA自1996至2021年的變化(Python、PowerBI)](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/README.md)
