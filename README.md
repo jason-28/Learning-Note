@@ -11,3 +11,11 @@
 [音樂劇回購率分析(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E9%9F%B3%E6%A8%82%E5%8A%87%E5%9B%9E%E8%B3%BC%E7%8E%87%E5%88%86%E6%9E%90.md)
 
 [NBA自1996至2021年的變化(Python、PowerBI)](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/README.md)
+
+# 爬蟲練習:
+
+[PTT(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/PTT%E7%88%AC%E8%9F%B2%E7%B7%B4%E7%BF%92.ipynb)
+
+[蘋果新聞網(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E8%98%8B%E6%9E%9C%E6%96%B0%E8%81%9E%E7%B6%B2%E9%A0%AD%E6%A2%9D%E6%A8%99%E9%A1%8C%E7%88%AC%E8%9F%B2.ipynb)
+
+[運動視界()](https://github.com/jason-28/Learning-Note/blob/main/Python/%E9%81%8B%E5%8B%95%E8%A6%96%E7%95%8C%E7%88%AC%E8%9F%B2.ipynb)
