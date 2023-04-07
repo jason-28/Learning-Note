@@ -31,3 +31,7 @@ https://kknews.cc/zh-tw/news/qv5v58g.html
 http://www.taroballz.com/2019/05/15/ML_decision_tree_detail/
 
 https://ithelp.ithome.com.tw/articles/10254671
+
+https://ntudac.medium.com/python-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86%E8%88%87%E6%A8%B9%E6%A8%A1%E5%9E%8B-410cf4f777b0
+
+https://sites.google.com/view/cplo-python
