@@ -10,7 +10,7 @@ https://sites.google.com/view/cplo-python
 
 ## Numpy
 
-[Numpy Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Numpy%E7%9B%B8%E9%97%9C.ipynb)
+### [Numpy Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Numpy%E7%9B%B8%E9%97%9C.ipynb)
 
 https://medium.com/jimmy-wang/python-numpy-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%85%A5%E9%96%80%E7%AF%87-np001-2a7e71e722a8
 
@@ -20,7 +20,7 @@ https://medium.com/jimmy-wang/python-numpy-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-
 
 ## Pandas
 
-[Pandas Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Pandas%E7%9B%B8%E9%97%9C.ipynb)
+### [Pandas Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Pandas%E7%9B%B8%E9%97%9C.ipynb)
 
 https://zhuanlan.zhihu.com/p/38184619
 
@@ -32,11 +32,11 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 
 ## 機器學習
 
-[KNN Note](https://github.com/jason-28/Learning-Note/blob/main/Python/KNN%E7%9B%B8%E9%97%9C.ipynb)
+### [KNN Note](https://github.com/jason-28/Learning-Note/blob/main/Python/KNN%E7%9B%B8%E9%97%9C.ipynb)
 
-[Regession Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Regession%E7%9B%B8%E9%97%9C%20.ipynb)
+### [Regession Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Regession%E7%9B%B8%E9%97%9C%20.ipynb)
 
-[Logistic Regression](https://github.com/jason-28/Learning-Note/blob/main/Python/Logistic%20Regression%E7%9B%B8%E9%97%9C.ipynb)
+### [Logistic Regression](https://github.com/jason-28/Learning-Note/blob/main/Python/Logistic%20Regression%E7%9B%B8%E9%97%9C.ipynb)
 
 [多項式遞迴](https://www.twblogs.net/a/5c9283f1bd9eee35cd6b9e6)
 
