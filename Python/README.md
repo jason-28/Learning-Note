@@ -2,6 +2,8 @@
 
 # 筆記&參考網站
 
+## [大三上資料結構與演算法](https://github.com/jason-28/06170136)
+
 ## 數據分析入門
 
 https://hackmd.io/@cube/H1qxGMy7Y
@@ -28,6 +30,8 @@ https://kknews.cc/zh-tw/news/qv5v58g.html
 
 ## 視覺化
 
+[Matplotlib Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Matplotlib%E7%9B%B8%E9%97%9C.ipynb)
+
 https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%8B%E4%BA%8B/%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96%E6%95%99%E7%A8%8B%E4%BE%86%E4%BA%86-252919addd73
 
 ## 機器學習
@@ -53,6 +57,3 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 [支援向量機SVM](https://pyecontech.com/2020/04/11/python_svm/)
 
 [推薦系統](https://tmrmds.co/article-mds-operation/18284/)
-
-## [大三上資料結構與演算法](https://github.com/jason-28/06170136)
-
