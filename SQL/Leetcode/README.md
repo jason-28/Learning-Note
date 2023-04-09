@@ -30,7 +30,7 @@ Write an SQL query to report the names of the customer that are not referred by 
 
     SELECT name
     FROM Customer
-    WHERE referee_id != 2 OR  referee_id is null; 
+    WHERE referee_id != 2 OR  referee_id is null; #NULL也可以
     
 # [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/?envType=study-plan&id=sql-i)
 
@@ -49,7 +49,7 @@ Write an SQL query to calculate the bonus of each employee. The bonus of an empl
 ## MySQL ans
 
     SELECT employee_id , 
-    CASE WHEN employee_id%2 != 0 AND name not like 'M%' THEN salary 
+    CASE WHEN employee_id%2 != 0 AND name not like 'M%' THEN salary  #除2餘數不等於(奇數)且名字不是M開頭才能有BONUS
     ELSE 0 end AS bonus
     FROM employees
     ORDER BY employee_id;
@@ -61,7 +61,7 @@ Write an SQL query to swap all 'f' and 'm' values (i.e., change all 'f' values t
 ## MySQL ans
 
     UPDATE Salary
-    SET sex = CASE sex
+    SET sex = CASE sex 
     WHEN 'm' THEN 'f'
     WHEN 'f' THEN 'm'
     END;
@@ -82,9 +82,23 @@ Write an SQL query to fix the names so that only the first character is uppercas
 ## MySQL ans
 
     SELECT user_id , 
-    CONCAT(UPPER(SUBSTR(name,1,1)),LOWER(SUBSTR(name,2))) AS name 
+    CONCAT(UPPER(SUBSTR(name,1,1)),LOWER(SUBSTR(name,2))) AS name  #合併對第一個字轉大寫及剩下的字轉小寫
     FROM Users
     ORDER BY user_id;
     
-    
-    
+# [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/?envType=study-plan&id=sql-i) 
+ 
+ Write an SQL query to find for each date the number of different products sold and their names.
+
+The sold products names for each date should be sorted lexicographically.
+
+Return the result table ordered by sell_date.
+ 
+ ## MySQL ans
+ 
+    SELECT sell_date , 
+    COUNT(DISTINCT(product)) AS num_sold, #只需要有賣的種類
+    GROUP_CONCAT(DISTINCT product ORDER BY product SEPARATOR ',') AS products #兼具GROUPBY&CONCAT
+    FROM Activities
+    GROUP BY sell_date #依日期分組
+    ORDER BY sell_date;   
