@@ -98,7 +98,21 @@ Return the result table ordered by sell_date.
  
     SELECT sell_date , 
     COUNT(DISTINCT(product)) AS num_sold, #只需要有賣的種類
-    GROUP_CONCAT(DISTINCT product ORDER BY product SEPARATOR ',') AS products #兼具GROUPBY&CONCAT
+    GROUP_CONCAT(DISTINCT product ORDER BY product SEPARATOR ',') AS products #兼具GROUPBY&CONCAT，MYSQL才有
     FROM Activities
     GROUP BY sell_date #依日期分組
     ORDER BY sell_date;   
+
+# [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/?envType=study-plan&id=sql-i)
+
+Write an SQL query to report the patient_id, patient_name and conditions of the patients who have Type I Diabetes. Type I Diabetes always starts with DIAB1 prefix.
+
+ ## MySQL ans
+
+    SELECT *
+    FROM Patients
+    WHERE conditions LIKE 'DIAB1%' OR conditions LIKE '% DIAB1%';
+    
+    
+    
+
