@@ -42,7 +42,7 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 
 ### [Logistic Regression](https://github.com/jason-28/Learning-Note/blob/main/Python/Logistic%20Regression%E7%9B%B8%E9%97%9C.ipynb)
 
-###[Decision Tree](https://github.com/jason-28/Learning-Note/blob/main/Python/Decision%20Tree%E7%9B%B8%E9%97%9C.ipynb)
+### [Decision Tree](https://github.com/jason-28/Learning-Note/blob/main/Python/Decision%20Tree%E7%9B%B8%E9%97%9C.ipynb)
 
 [多項式遞迴](https://www.twblogs.net/a/5c9283f1bd9eee35cd6b9e6)
 
