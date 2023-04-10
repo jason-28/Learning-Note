@@ -4,8 +4,8 @@
 
 * IF NOT EXISTS 可判斷是否已有建立資料庫，若無建立才創建，可避免重複創建。
 
-    CREATE DATABASE 資料庫名稱 
-    COLLATE 編碼;
+      CREATE DATABASE 資料庫名稱 
+      COLLATE 編碼;
     
 # CREATE TABLE
 
