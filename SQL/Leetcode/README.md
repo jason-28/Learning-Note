@@ -94,7 +94,7 @@ The sold products names for each date should be sorted lexicographically.
 
 Return the result table ordered by sell_date.
  
- ## MySQL ans
+## MySQL ans
  
     SELECT sell_date , 
     COUNT(DISTINCT(product)) AS num_sold, #只需要有賣的種類
@@ -107,12 +107,68 @@ Return the result table ordered by sell_date.
 
 Write an SQL query to report the patient_id, patient_name and conditions of the patients who have Type I Diabetes. Type I Diabetes always starts with DIAB1 prefix.
 
- ## MySQL ans
+## MySQL ans
 
     SELECT *
     FROM Patients
     WHERE conditions LIKE 'DIAB1%' OR conditions LIKE '% DIAB1%';
     
-    
-    
+# [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/description/?envType=study-plan&id=sql-i)   
+ 
+Write an SQL query to report the IDs of all the employees with missing information.
+ 
+## MySQL ans
+ 
+    SELECT employee_id FROM Employees WHERE employee_id NOT IN (SELECT employee_id FROM Salaries) #Employee裡的ID沒有在Salaries的ID
+    UNION 
+    SELECT employee_id FROM Salaries WHERE employee_id NOT IN (SELECT employee_id FROM Employees) #同上
+    ORDER BY employee_id ASC;
 
+# [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/?envType=study-plan&id=sql-i)
+
+Write an SQL query to rearrange the Products table so that each row has (product_id, store, price). If a product is not available in a store, do not include a row with that product_id and store combination in the result table.
+
+## MySQL ans
+
+    SELECT product_id, 'store1' AS store, store1 as price FROM products WHERE store1 IS NOT NULL #字串store1為store，數值store1為price，以下同理
+    UNION 
+    SELECT product_id, 'store2' AS store, store2 as price FROM products WHERE store2 IS NOT NULL
+    UNION 
+    SELECT product_id, 'store3' AS store, store3 as price From products WHERE store3 IS NOT NULL
+    ORDER BY product_id ASC;
+    
+# [608. Tree Node](https://leetcode.com/problems/tree-node/description/?envType=study-plan&id=sql-i)    
+
+Write an SQL query to report the type of each node in the tree.
+
+## MySQL ans
+
+    SELECT id,
+    CASE WHEN p_id IS NULL THEN 'Root'
+    WHEN p_id in (SELECT id FROM tree) AND id in (SELECT p_id FROM tree) THEN  'Inner' #p_id跟id都有出現才是inner
+    ELSE 'Leaf' END AS type
+    FROM tree;
+    
+# [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/?envType=study-plan&id=sql-i)    
+
+Write an SQL query to report the second highest salary from the Employee table. If there is no second highest salary, the query should report null.
+
+## MySQL ans
+
+    SELECT  MAX(salary) AS SecondHighestSalary 
+    FROM Employee  
+    WHERE SALARY != (SELECT MAX(SALARY) FROM EMPLOYEE); #在不等於正常篩選下最大值的條件下選最大的
+    
+# [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/?envType=study-plan&id=sql-i)
+
+Write an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.
+
+## MySQL ans
+
+    SELECT Person.firstName, Person.lastName, Address.city, Address.state
+    FROM Person LEFT JOIN Address on Person.personId=Address.personId;
+    
+    
+    
+    
+    
