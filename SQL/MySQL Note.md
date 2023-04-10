@@ -40,5 +40,27 @@
     DELETE FROM 資料表名稱
     WHERE 條件;
     
+# GROUP BY
+
+* GROUP BY 時 SELECT 後面欄位只能使用： **彙總函式、常數（固定數值）、GROUP BY 指定的欄位名稱**
     
-    
+# HAVING
+
+* 只能用在 aggregate (彙總函式) 下 ，也就是有 GROUP BY 的時候，並且 HAVING 要過濾的條件，要跟 GROUP BY 的彙總函數有關。
+
+# ORDER BY 
+
+* ASC 是由小到大，DESC 則是由大到小
+
+# View
+
+* 當查詢語法時常重複使用或非常複雜時，可以創建 View 檢視表來簡化。
+
+* 可以想成是一個虛擬的資料表（Virtual table），只是 View 檢視表和 table 不同，不是儲存真實的資料而是查詢的語法。
+
+      CREATE VIEW view_name (檢視表欄位名稱1, 檢視表欄位名稱2,...)
+      AS 查詢語法敘述;
+      
+      DROP VIEW view_name;
+      
+      
