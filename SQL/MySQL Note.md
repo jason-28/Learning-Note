@@ -27,7 +27,7 @@
 
 * 注意插入值順序需要和資料表欄位順序相同
 
-    INSERT INTO 資料表名稱 VALUES (),(),()...; 
+      INSERT INTO 資料表名稱 VALUES (),(),()...; 
     
 # UPDATE 
  
