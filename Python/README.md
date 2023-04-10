@@ -46,7 +46,7 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 
 [多項式遞迴](https://www.twblogs.net/a/5c9283f1bd9eee35cd6b9e6)
 
-[Ridge和Lasso(Scikit-Learn)]https://www.twblogs.net/a/5c544ad1bd9eee06ef3645ec
+[Ridge和Lasso(Scikit-Learn)](https://www.twblogs.net/a/5c544ad1bd9eee06ef3645ec)
 
 [sklearn](https://www.twblogs.net/a/5b8a6a822b71775d1ce6e6f4)
 
