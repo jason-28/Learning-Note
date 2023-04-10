@@ -204,6 +204,30 @@ Write an SQL query to find all dates' Id with higher temperatures compared to it
     WHERE datediff(A.recordDate, B.recordDate)= 1 #A為今天、B為昨天
     AND A.temperature > B.temperature;
     
+# [607. Sales Person](https://leetcode.com/problems/sales-person/description/?envType=study-plan&id=sql-i)    
     
+Write an SQL query to report the names of all the salespersons who did not have any orders related to the company with the name "RED".
+
+## MySQL ans
+
+    SELECT DISTINCT SalesPerson.name 
+    FROM SalesPerson LEFT JOIN Orders ON SalesPerson.sales_id=Orders.sales_id
+    WHERE SalesPerson.sales_id NOT IN
+    (SELECT DISTINCT Orders.sales_id
+    FROM Orders
+    INNER JOIN Company on Orders.com_id = Company.com_id
+    WHERE Company.name = 'Red'); 
     
+[1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan&id=sql-i)    
+    
+Write an SQL query to find the daily active user count for a period of 30 days ending 2019-07-27 inclusively. A user was active on someday if they made at least one activity on that day.   
+   
+## MySQL ans    
+
+    SELECT
+    activity_date AS day, 
+    COUNT(DISTINCT user_id) AS active_users
+    FROM Activity
+    WHERE activity_date > "2019-06-27" AND activity_date <= "2019-07-27"
+    GROUP BY activity_date;
 
