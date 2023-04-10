@@ -130,6 +130,63 @@
 
       LIKE %比對字串
 
+* IS NULL / IS NOT NULL:判斷是否有空值
 
+* BETWEEN:判斷是否在區間語法（含頭尾)
 
+      BETWEEN 值_1 AND 值_2
 
+* IN、NOT IN:判斷是否為其中一值的語法
+
+# CASE 
+
+* 類似if...else，在SELECT那段會用到
+
+      CASE WHEN 判斷式_1 THEN 結果_1
+       WHEN 判斷式_2 THEN 結果_2
+      ELSE 預設結果
+      END
+      
+# 查詢集合
+
+* 查詢集合時兩個查詢語法需一致
+
+## UNION 聯集
+
+      SELECT 欄位_1, 欄位_2
+      FROM 資料表_1
+      UNION
+      SELECT 欄位_1, 欄位_2
+      FROM 資料表_2;
+
+## INTERSECT 交集
+
+      SELECT 欄位_1, 欄位_2
+      FROM 資料表_1
+      INTERSECT
+      SELECT 欄位_1, 欄位_2
+      FROM 資料表_2;
+
+## EXCEPT 差集
+
+      SELECT 欄位_1, 欄位_2
+      FROM 資料表_1
+      EXCEPT
+      SELECT 欄位_1, 欄位_2
+      FROM 資料表_2;
+
+# JOIN 合併查詢
+
+## INNER JOIN
+
+* 透過有相同的連結欄位合併不同資料表（可以多個）
+
+      資料表_1 INNER JOIN 資料表_2 ON 資料表_1.屬性 = 資料表_2.屬性
+
+## OUTER JOIN
+
+* 不管有沒有相同的連結欄位都合併在一起，需要指定以哪一個資料表為主（目前以LEFT為主）。
+
+      資料表_1 LEFT OUTER JOIN 資料表_2 ON 資料表_1.屬性 = 資料表_2.屬性
+      
+      
