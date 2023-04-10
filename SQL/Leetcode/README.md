@@ -168,7 +168,42 @@ Write an SQL query to report the first name, last name, city, and state of each 
     SELECT Person.firstName, Person.lastName, Address.city, Address.state
     FROM Person LEFT JOIN Address on Person.personId=Address.personId;
     
+# [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan&id=sql-i)    
+    
+Write a SQL query to find the IDs of the users who visited without making any transactions and the number of times they made these types of visits.
+
+## MySQL ans
+
+    SELECT Visits.customer_id,
+    COUNT( Visits.visit_id)
+    AS count_no_trans
+    FROM Visits LEFT JOIN Transactions ON Visits.visit_id=Transactions.visit_id
+    WHERE Transactions.visit_id is NULL #在Transactions的visit_id 為空值的情況數Visits的visit_id出現幾次
+    GROUP BY customer_id 
+    ORDER BY count_no_trans DESC;
+
+# [1148. Article Views I](https://leetcode.com/problems/article-views-i/?envType=study-plan&id=sql-i)
+
+Write an SQL query to find all the authors that viewed at least one of their own articles.
+
+## MySQL ans
+
+    SELECT DISTINCT (viewer_id) AS id
+    FROM Views
+    WHERE viewer_id=author_id
+    ORDER BY id;
+    
+# [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/?envType=study-plan&id=sql-i)
+
+Write an SQL query to find all dates' Id with higher temperatures compared to its previous dates (yesterday).
+
+## MySQL ans
+
+    SELECT A.id 
+    FROM Weather A,Weather B
+    WHERE datediff(A.recordDate, B.recordDate)= 1 #A為今天、B為昨天
+    AND A.temperature > B.temperature;
     
     
     
-    
+
