@@ -1,4 +1,4 @@
-這邊是SQL相關的自學經歷
+這邊是SQL/MySQL相關的自學經歷
 
 ## 線上練習:
 
@@ -15,3 +15,5 @@
 [More JOIN operations](https://github.com/jason-28/Learning-Note/blob/main/SQL/More%20JOIN%20operations.md)
 
 [Self join](https://github.com/jason-28/Learning-Note/blob/main/SQL/Self%20join.md)
+
+## [Leetcode](https://github.com/jason-28/Learning-Note/tree/main/SQL/Leetcode)
