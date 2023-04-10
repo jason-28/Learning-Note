@@ -52,7 +52,7 @@
 
 * ASC 是由小到大，DESC 則是由大到小
 
-# View
+# CREATE/DROP View
 
 * 當查詢語法時常重複使用或非常複雜時，可以創建 View 檢視表來簡化。
 
