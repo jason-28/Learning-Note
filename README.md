@@ -16,6 +16,8 @@
 
 [PTT(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/PTT%E7%88%AC%E8%9F%B2%E7%B7%B4%E7%BF%92.ipynb)
 
+[PTT斷詞+文字雲(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/PPT%E7%88%AC%E8%9F%B2%26Text%20mining%E7%B7%B4%E7%BF%92.ipynb)
+
 [蘋果新聞網(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E8%98%8B%E6%9E%9C%E6%96%B0%E8%81%9E%E7%B6%B2%E9%A0%AD%E6%A2%9D%E6%A8%99%E9%A1%8C%E7%88%AC%E8%9F%B2.ipynb)
 
 [運動視界(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E9%81%8B%E5%8B%95%E8%A6%96%E7%95%8C%E7%88%AC%E8%9F%B2.ipynb)
