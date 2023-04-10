@@ -189,4 +189,13 @@
 
       資料表_1 LEFT OUTER JOIN 資料表_2 ON 資料表_1.屬性 = 資料表_2.屬性
       
-      
+# ROLLUP 
+
+* 是一個特別語法，可以根據條件進行分組小計和總計的計算(統計分類的加總)  
+
+# RANK()&PARTITION BY
+
+* 視窗函式專用， RANK()用於進行排名。OVER後面接以哪個欄位做細分;PARTITION BY則代表分類依據
+
+      RANK() OVER(PARTITION BY 欄位_1 ORDER BY 欄位_2)
+
