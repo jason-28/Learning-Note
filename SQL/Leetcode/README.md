@@ -218,7 +218,7 @@ Write an SQL query to report the names of all the salespersons who did not have 
     INNER JOIN Company on Orders.com_id = Company.com_id
     WHERE Company.name = 'Red'); 
     
-[1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan&id=sql-i)    
+# [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan&id=sql-i)    
     
 Write an SQL query to find the daily active user count for a period of 30 days ending 2019-07-27 inclusively. A user was active on someday if they made at least one activity on that day.   
    
