@@ -12,7 +12,7 @@
 
 [NBA自1996至2021年的變化(Python、PowerBI)](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/README.md)
 
-# 爬蟲練習:
+# 練習:
 
 [PTT標題爬蟲(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/PTT%E7%88%AC%E8%9F%B2%E7%B7%B4%E7%BF%92.ipynb)
 
@@ -24,4 +24,4 @@
 
 [Airbnb價錢預測(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/Airbnb%E5%83%B9%E9%8C%A2%E9%A0%90%E6%B8%AC.ipynb)
 
-[Wine資料集SVM練習](https://github.com/jason-28/Learning-Note/blob/main/Python/ML8.ipynb)
+[Wine資料集SVM練習(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/ML8.ipynb)
