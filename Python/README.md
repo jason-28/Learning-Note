@@ -59,3 +59,5 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 [支援向量機SVM](https://pyecontech.com/2020/04/11/python_svm/)
 
 [推薦系統](https://tmrmds.co/article-mds-operation/18284/)
+
+[交叉驗證](https://ithelp.ithome.com.tw/articles/10197461)
