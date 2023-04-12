@@ -382,11 +382,15 @@ Write an SQL query to report the name and balance of users with a balance higher
     GROUP BY name
     HAVING balance>10000;
     
-# [1084. Sales Analysis III]    
+# [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/?envType=study-plan&id=sql-i)    
     
+Write an SQL query that reports the products that were only sold in the first quarter of 2019. That is, between 2019-01-01 and 2019-03-31 inclusive.    
     
+## MySQL ans    
     
-    
-    
+    SELECT P.product_id,P.product_name
+    FROM Product P LEFT JOIN Sales S ON P.product_id=S.product_id
+    GROUP BY product_id,product_name 
+    HAVING MIN(S.sale_date) >= "2019-01-01" AND MAX(S.sale_date) <= "2019-03-31"; 
     
 
