@@ -1,5 +1,7 @@
 這邊是SQL/MySQL相關的自學經歷
 
+# [MySQL筆記](https://github.com/jason-28/Learning-Note/blob/main/SQL/MySQL%20Note.md)
+
 # 線上練習:
 
 [SELECT from WORLD Tutorial](https://github.com/jason-28/Learning-Note/blob/main/SQL/SELECT%20from%20WORLD%20Tutorial.md)
