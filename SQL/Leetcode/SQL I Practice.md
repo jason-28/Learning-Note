@@ -1,3 +1,5 @@
+# [SQL I](https://leetcode.com/study-plan/sql/?progress=x4dk0rod)
+
 # [595. Big Countries](https://leetcode.com/problems/big-countries/?envType=study-plan&id=sql-i)
 
 A country is big if:
@@ -315,7 +317,7 @@ The Capital gain/loss of a stock is the total gain or loss after buying and sell
 
     SELECT stock_name,
     SUM(CASE WHEN operation='Buy' THEN price*-1 ELSE price end ) AS capital_gain_loss
-    FROM stocks 
+    FROM tocks 
     GROUP BY stock_name ;
 
 # [1407. Top Travellers](https://leetcode.com/problems/top-travellers/description/?envType=study-plan&id=sql-i)
@@ -326,13 +328,65 @@ Return the result table ordered by travelled_distance in descending order, if tw
 
 ## MySQL ans 
  
-    SELECT u.name, 
-    COALESCE(SUM(r.distance), 0) AS travelled_distance #把空值直接改0，不然統計不到沒
-    FROM users u
-    LEFT JOIN rides r ON u.id = r.user_id
-    GROUP BY user_id #group by "user_id" (primary key)比name好
+    SELECT U.name, 
+    COALESCE(SUM(R.distance), 0) AS travelled_distance #把空值直接改0，不然統計不到
+    FROM Users U
+    LEFT JOIN Rides R ON U.id = R.user_id
+    GROUP BY user_id  #group by "user_id" (primary key)比name好，可避免重複
     ORDER BY travelled_distance DESC, name ASC;
     
+# [1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i/?envType=study-plan&id=sql-i)    
+    
+Write an SQL query to find for each user, the join date and the number of orders they made as a buyer in 2019.    
+
+## MySQL ans 
+
+    SELECT U.user_id AS buyer_id, join_date, 
+    COALESCE(COUNT(order_date), 0) AS orders_in_2019 
+    FROM Users U
+    LEFT JOIN Orders O ON U.user_id = O.buyer_id
+    AND YEAR(order_date) = '2019' #用where再定年份會無法顯示為0的值
+    GROUP BY U.user_id;
+    
+# [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/?envType=study-plan&id=sql-i)    
+ 
+Write an SQL query to report all the duplicate emails. Note that it's guaranteed that the email field is not NULL. 
+
+## MySQL ans 
+
+    SELECT email AS Email 
+    FROM Person
+    GROUP BY email
+    HAVING COUNT(email) > 1;
+
+# [1050. Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/?envType=study-plan&id=sql-i)
+
+Write a SQL query for a report that provides the pairs (actor_id, director_id) where the actor has cooperated with the director at least three times.
+
+## MySQL ans 
+
+    SELECT actor_id ,director_id
+    FROM ActorDirector
+    GROUP BY actor_id,director_id
+    HAVING COUNT(timestamp)>=3; 
+    
+# [1587. Bank Account Summary II1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/?envType=study-plan&id=sql-i)    
+    
+Write an SQL query to report the name and balance of users with a balance higher than 10000. The balance of an account is equal to the sum of the amounts of all transactions involving that account.    
+
+## MySQL ans
+
+    SELECT U.name,
+    SUM(T.amount) AS balance
+    FROM Users U LEFT JOIN Transactions T ON U.account =T.account 
+    GROUP BY name
+    HAVING balance>10000;
+    
+# [1084. Sales Analysis III]    
     
     
     
+    
+    
+    
+
