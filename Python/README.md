@@ -50,6 +50,8 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 
 [sklearn](https://www.twblogs.net/a/5b8a6a822b71775d1ce6e6f4)
 
+[線性迴歸](https://medium.com/jackys-blog/machine-learning-%E4%B8%8B%E7%9A%84-linear-regression-%E5%AF%A6%E4%BD%9C-%E4%BD%BF%E7%94%A8python-7e1dd03a4d46)
+
 [DecisionTreeClassifier](http://www.taroballz.com/2019/05/15/ML_decision_tree_detail/)
 
 [混淆矩陣](https://ithelp.ithome.com.tw/articles/10254671)
