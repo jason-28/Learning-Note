@@ -10,6 +10,11 @@ https://hackmd.io/@cube/H1qxGMy7Y
 
 https://sites.google.com/view/cplo-python
 
+## 資料前處理
+
+[One hot encoding v.s. get dummies](https://medium.com/@PatHuang/%E5%88%9D%E5%AD%B8python%E6%89%8B%E8%A8%98-3-%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86-label-encoding-one-hot-encoding-85c983d63f87)
+
+
 ## Numpy
 
 ### [Numpy Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Numpy%E7%9B%B8%E9%97%9C.ipynb)
@@ -56,7 +61,7 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 
 [混淆矩陣](https://ithelp.ithome.com.tw/articles/10254671)
 
-[ 決策樹、隨機森林、GBDT](https://ntudac.medium.com/python-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86%E8%88%87%E6%A8%B9%E6%A8%A1%E5%9E%8B-410cf4f777b0)
+[決策樹、隨機森林、GBDT](https://ntudac.medium.com/python-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86%E8%88%87%E6%A8%B9%E6%A8%A1%E5%9E%8B-410cf4f777b0)
 
 [支援向量機SVM](https://pyecontech.com/2020/04/11/python_svm/)
 
