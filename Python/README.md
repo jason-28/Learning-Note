@@ -68,3 +68,5 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 [推薦系統](https://tmrmds.co/article-mds-operation/18284/)
 
 [交叉驗證](https://ithelp.ithome.com.tw/articles/10197461)
+
+[專案示範](https://medium.com/@jacky308082/%E5%A6%82%E4%BD%95%E5%BE%9E%E9%A0%AD%E5%88%B0%E5%B0%BE%E5%AE%8C%E6%88%90%E4%B8%80%E5%80%8B%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8-data-science-%E5%B0%88%E6%A1%88-e3d003853885)
