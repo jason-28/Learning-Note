@@ -2,15 +2,55 @@
 
 # 資料分析實作:
 
-[航空業數據分析(R)](https://github.com/jason-28/Learning-Note/tree/main/R/%E8%88%AA%E7%A9%BA%E6%A5%AD%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90)
+## [航空業數據分析(R)](https://github.com/jason-28/Learning-Note/tree/main/R/%E8%88%AA%E7%A9%BA%E6%A5%AD%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90)
 
-[假新聞輿論之影響(Python)](https://github.com/jason-28/Visual-Analytics-Final)
+* Situation:
 
-[智慧手環分析(SAS、Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0%E5%88%86%E6%9E%90.md)
+* Task:
 
-[音樂劇回購率分析(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E9%9F%B3%E6%A8%82%E5%8A%87%E5%9B%9E%E8%B3%BC%E7%8E%87%E5%88%86%E6%9E%90.md)
+* Action:
 
-[NBA自1996至2021年的變化(Python、PowerBI)](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/README.md)
+* Result:
+
+## [假新聞輿論之影響(Python)](https://github.com/jason-28/Visual-Analytics-Final)
+
+* Situation:
+
+* Task:
+
+* Action:
+
+* Result:
+
+## [智慧手環分析(SAS、Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0%E5%88%86%E6%9E%90.md)
+
+* Situation:
+
+* Task:
+
+* Action:
+
+* Result:
+
+## [音樂劇回購率分析(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E9%9F%B3%E6%A8%82%E5%8A%87%E5%9B%9E%E8%B3%BC%E7%8E%87%E5%88%86%E6%9E%90.md)
+
+* Situation:
+
+* Task:
+
+* Action:
+
+* Result:
+
+## [NBA自1996至2021年的變化(Python、PowerBI)](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/README.md)
+
+* Situation:
+
+* Task:
+
+* Action:
+
+* Result:
 
 # 練習:
 
