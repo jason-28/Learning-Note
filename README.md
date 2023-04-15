@@ -4,11 +4,11 @@
 
 ## [航空業數據分析(R)](https://github.com/jason-28/Learning-Note/tree/main/R/%E8%88%AA%E7%A9%BA%E6%A5%AD%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90)
 
-* Situation:對於航空公司的營運方針提出可行建議
+### Situation:對於航空公司的營運方針提出可行建議
 
-* Task:利用基本資料、飛行資料、帳戶資料進行分析
+### Task:利用基本資料、飛行資料、帳戶資料進行分析
 
-* Action:
+### Action:
 
 1.透過K-Means找出短、中、長程客戶
 
@@ -20,7 +20,7 @@
 
 5.繪製男女比例圓餅圖
 
-* Result:
+### Result:
 
 1.短中程需求客戶量遠多於長程客戶，建議多提供相關方案或促銷。
 
@@ -34,13 +34,15 @@
 
 ## [假新聞輿論之影響(Python、R、SAS)](https://github.com/jason-28/Visual-Analytics-Final)
 
-* Situation:假新聞氾濫，我們決定對其進行分析研究
+### Situation:假新聞氾濫，我們決定對其進行分析研究
 
-* Task:將假新聞的資料視覺化,讓大家更淺顯易懂
+### Task:將假新聞的資料視覺化,讓大家更淺顯易懂
 
-* Action:對網頁爬蟲的資料集及Kaggle的資料集進行關鍵字及情感分析
+### Action:
 
-* Result:
+對網頁爬蟲的資料集及Kaggle的資料集進行關鍵字及情感分析
+
+### Result:
 
 1.關鍵字方面
 
@@ -78,13 +80,21 @@
 
 ## [NBA自1996至2021年的變化(Python、PowerBI)](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/README.md)
 
-* Situation:
+### Situation:在勇士隊奪冠後，聯盟掀起小球風潮
 
-* Task:將資料內容視覺化並分析是否因勇士奪冠而對聯盟造成影響
+### Task:將資料內容視覺化並分析是否因勇士隊奪冠而對聯盟造成影響
 
-* Action:
+### Action:
 
-* Result:
+* **資料前處理:**
+
+缺失值處理、根據球隊歷史，將舊有隊名改為對應現存隊名、新建一個Dataframe : players_unique(透過去除重複球員姓名的欄位，確保某些數據統計不會出錯)、新增欄位是否經過選秀、新增欄位是否為美國人
+
+
+
+### Result:
+
+
 
 # 練習:
 
