@@ -49,6 +49,10 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 
 ### [Decision Tree Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Decision%20Tree%E7%9B%B8%E9%97%9C.ipynb)
 
+[特徵選擇1](https://ithelp.ithome.com.tw/m/articles/10245037)
+
+[特徵選擇2](https://medium.com/ai%E5%8F%8D%E6%96%97%E5%9F%8E/%E7%89%B9%E5%BE%B5%E5%B7%A5%E7%A8%8B%E4%B9%8B%E7%89%B9%E5%BE%B5%E9%81%B8%E6%93%87%E6%A6%82%E5%BF%B5-ca11745db63c)
+
 [多項式遞迴](https://www.twblogs.net/a/5c9283f1bd9eee35cd6b9e6)
 
 [Ridge和Lasso(Scikit-Learn)](https://www.twblogs.net/a/5c544ad1bd9eee06ef3645ec)
