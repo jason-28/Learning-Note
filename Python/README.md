@@ -53,6 +53,12 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 
 [特徵選擇2](https://medium.com/ai%E5%8F%8D%E6%96%97%E5%9F%8E/%E7%89%B9%E5%BE%B5%E5%B7%A5%E7%A8%8B%E4%B9%8B%E7%89%B9%E5%BE%B5%E9%81%B8%E6%93%87%E6%A6%82%E5%BF%B5-ca11745db63c)
 
+[GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+
+[RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html#sklearn.model_selection.RandomizedSearchCV)
+
+[grid-scores視覺化](https://stackoverflow.com/questions/37161563/how-to-graph-grid-scores-from-gridsearchcv)
+
 [多項式遞迴](https://www.twblogs.net/a/5c9283f1bd9eee35cd6b9e6)
 
 [Ridge和Lasso(Scikit-Learn)](https://www.twblogs.net/a/5c544ad1bd9eee06ef3645ec)
@@ -78,3 +84,5 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 [專案示範2](https://medium.com/finformation%E7%95%B6%E7%A8%8B%E5%BC%8F%E9%81%87%E4%B8%8A%E8%B2%A1%E5%8B%99%E9%87%91%E8%9E%8D/%E6%88%91%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E5%AE%A2%E6%88%B6%E6%B5%81%E5%A4%B1%E9%A0%90%E6%B8%AC-kaggle%E6%AF%94%E8%B3%BD%E6%80%9D%E8%B7%AF%E5%88%86%E4%BA%AB-daecd888a91)
 
 [LogisticRegression參數說明](https://blog.csdn.net/jark_/article/details/78342644)
+
+
