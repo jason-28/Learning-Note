@@ -180,14 +180,50 @@
 
 # 練習:
 
-[PTT標題爬蟲(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/PTT%E7%88%AC%E8%9F%B2%E7%B7%B4%E7%BF%92.ipynb)
+## [PTT標題爬蟲(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/PTT%E7%88%AC%E8%9F%B2%E7%B7%B4%E7%BF%92.ipynb)
 
-[PTT爬蟲+斷詞+文字雲(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/PPT%E7%88%AC%E8%9F%B2%26Text%20mining%E7%B7%B4%E7%BF%92.ipynb)
+## [PTT爬蟲+斷詞+文字雲(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/PPT%E7%88%AC%E8%9F%B2%26Text%20mining%E7%B7%B4%E7%BF%92.ipynb)
 
-[蘋果新聞網標題爬蟲+斷詞(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E8%98%8B%E6%9E%9C%E6%96%B0%E8%81%9E%E7%B6%B2%E9%A0%AD%E6%A2%9D%E6%A8%99%E9%A1%8C%E7%88%AC%E8%9F%B2.ipynb)
+## [蘋果新聞網標題爬蟲+斷詞(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E8%98%8B%E6%9E%9C%E6%96%B0%E8%81%9E%E7%B6%B2%E9%A0%AD%E6%A2%9D%E6%A8%99%E9%A1%8C%E7%88%AC%E8%9F%B2.ipynb)
 
-[運動視界標題爬蟲(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E9%81%8B%E5%8B%95%E8%A6%96%E7%95%8C%E7%88%AC%E8%9F%B2.ipynb)
+## [運動視界標題爬蟲(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E9%81%8B%E5%8B%95%E8%A6%96%E7%95%8C%E7%88%AC%E8%9F%B2.ipynb)
 
-[Airbnb價錢預測(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/Airbnb%E5%83%B9%E9%8C%A2%E9%A0%90%E6%B8%AC.ipynb)
+## [Airbnb價錢預測(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/Airbnb%E5%83%B9%E9%8C%A2%E9%A0%90%E6%B8%AC.ipynb)
 
-[Wine資料集SVM練習(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/ML8.ipynb)
+## [Wine資料集SVM練習(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/ML8.ipynb)
+
+# 筆記:
+
+## MySQL:
+
+[MySQL](https://github.com/jason-28/Learning-Note/blob/main/SQL/MySQL%20Note.md)
+
+## Python:
+
+### [Numpy Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Numpy%E7%9B%B8%E9%97%9C.ipynb)
+
+### [Pandas Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Pandas%E7%9B%B8%E9%97%9C.ipynb)
+
+### [Matplotlib Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Matplotlib%E7%9B%B8%E9%97%9C.ipynb)
+
+### [KNN Note](https://github.com/jason-28/Learning-Note/blob/main/Python/KNN%E7%9B%B8%E9%97%9C.ipynb)
+
+### [Regession Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Regession%E7%9B%B8%E9%97%9C%20.ipynb)
+
+### [Logistic Regression Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Logistic%20Regression%E7%9B%B8%E9%97%9C.ipynb)
+
+### [Decision Tree Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Decision%20Tree%E7%9B%B8%E9%97%9C.ipynb)
+
+## 其他:
+
+### [GA/GA4](https://github.com/jason-28/Learning-Note/tree/main/GA)
+
+### [Google ADS](https://github.com/jason-28/Learning-Note/tree/main/Google%20ADS)
+
+### [Facebook Blueprint](https://github.com/jason-28/Learning-Note/tree/main/Facebook%20Blueprint)
+
+### [行銷筆記](https://github.com/jason-28/Learning-Note/blob/main/%E8%A1%8C%E9%8A%B7%E7%AD%86%E8%A8%98.md)
+
+### [金融筆記](https://github.com/jason-28/Learning-Note/blob/main/%E9%87%91%E8%9E%8D%E7%AD%86%E8%A8%98.md)
+
+### [網路協定](https://github.com/jason-28/Learning-Note/blob/main/%E7%B6%B2%E8%B7%AF%E5%8D%94%E5%AE%9A.md)
