@@ -152,11 +152,11 @@
 
 * **模型相關:**
 
-* 對二元類型資料作Label Encoding、對其他類別型資料作One Hot Encoding
+對二元類型資料作Label Encoding、對其他類別型資料作One Hot Encoding
 
-* 篩選出與流失關聯性>正負0.1的欄位作為特徵，將資料切割為訓練、測試集。
+篩選出與流失關聯性>正負0.1的欄位作為特徵，將資料切割為訓練、測試集。
 
-* 使用Logestic Regression、Random Forest、XGBoost及SVM進行模型預測(參數都使用預設的)
+使用Logestic Regression、Random Forest、XGBoost及SVM進行模型預測(參數都使用預設的)
 
 ### Result:
 
