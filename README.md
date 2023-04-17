@@ -1,4 +1,4 @@
-學校課程及自學的相關筆記及實作
+**學校課程及自學的相關筆記及實作**
 
 # 資料分析實作:
 
@@ -196,7 +196,7 @@
 
 ## MySQL:
 
-[MySQL](https://github.com/jason-28/Learning-Note/blob/main/SQL/MySQL%20Note.md)
+### [MySQL Note](https://github.com/jason-28/Learning-Note/blob/main/SQL/MySQL%20Note.md)
 
 ## Python:
 
