@@ -4,9 +4,9 @@
 
 ## [航空業數據分析(R)](https://github.com/jason-28/Learning-Note/tree/main/R/%E8%88%AA%E7%A9%BA%E6%A5%AD%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90)
 
-### Situation:對於航空公司的營運方針提出可行建。。
+### Situation:某航空公司提供的基本資料、飛行資料、帳戶資料
 
-### Task:利用基本資料、飛行資料、帳戶資料進行分析。
+### Task:對於航空公司的營運方針提出可行建議。
 
 ### Action:
 
@@ -34,11 +34,11 @@
 
 ## [假新聞輿論之影響(Python、R、SAS)](https://github.com/jason-28/Visual-Analytics-Final)
 
-### Situation:假新聞氾濫，我們決定對其進行分析研究。
+### Situation:對網頁爬蟲的資料集及Kaggle的資料集。
 
 ### Task:將假新聞的資料視覺化,讓大家更淺顯易懂。
 
-### Action:對網頁爬蟲的資料集及Kaggle的資料集進行關鍵字及情感分析。。
+### Action:進行關鍵字及情感分析，透過繁簡體轉換、視覺化、斷詞及文字雲。
 
 ### Result:
 
@@ -58,7 +58,7 @@
 
 ## [智慧手環分析(SAS、Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E6%99%BA%E6%85%A7%E6%89%8B%E7%92%B0%E5%88%86%E6%9E%90.md)
 
-### Situation:智慧手環記錄著人們每天的活動情況，包含心跳、壓力指數及睡眠情況等。
+### Situation:由智慧手環記錄的人們每天的活動情況，包含心跳、壓力指數及睡眠情況等資料。
 
 ### Task:以心率為主軸，依據使用者每日的生活習慣結合壓力、睡眠品質的數據進行分析
 
@@ -98,7 +98,7 @@
 
 ## [NBA自1996至2021年的變化(Python、PowerBI)](https://github.com/jason-28/Learning-Note/blob/main/Python/NBA/README.md)
 
-### Situation:在勇士隊奪冠後，聯盟掀起小球風潮。
+### Situation:Kaggle上的1996-2022賽季資料。
 
 ### Task:將資料內容視覺化並分析是否因勇士隊奪冠而對聯盟造成影響。
 
@@ -133,6 +133,17 @@
 * 然而這樣的下降趨勢終究有限，因原本被預期淘汰的球員，在開發出符合現代潮流的能力後仍努力的讓自己能被留下。
 
 * 而這幾年選秀的年輕長人也不只是空有高大的身材及身體天賦，有的沒那麼強壯卻有能跟上後衛的速度、有的能穿針引線，使球隊進攻順暢，當然更多的還是將射程提升至三分線外的延伸長人了。
+
+## [客戶流失預測](https://github.com/jason-28/Learning-Note/blob/main/Python/Telco%20Customer%20Churn.ipynb)
+
+### Situation:Kaggle上的客戶流失資料。
+
+### Task:將資料內容視覺化、分析個欄位內容與流失與否的關係，最後建立分類模型預測。
+
+### Action:
+
+### Result:
+
 
 # 練習:
 
