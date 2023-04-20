@@ -227,3 +227,5 @@
 ### [金融筆記](https://github.com/jason-28/Learning-Note/blob/main/%E9%87%91%E8%9E%8D%E7%AD%86%E8%A8%98.md)
 
 ### [網路協定](https://github.com/jason-28/Learning-Note/blob/main/%E7%B6%B2%E8%B7%AF%E5%8D%94%E5%AE%9A.md)
+
+### [統計筆記](https://github.com/jason-28/Learning-Note/blob/main/%E7%B5%B1%E8%A8%88%E7%9B%B8%E9%97%9C%E7%AD%86%E8%A8%98.md#evaluation-of-predictive-models)
