@@ -4,6 +4,8 @@
 
 ## [大三上資料結構與演算法](https://github.com/jason-28/06170136)
 
+## [動態網頁爬蟲](https://www.learncodewithmike.com/2020/05/python-selenium-scraper.html)
+
 ## 數據分析入門
 
 https://hackmd.io/@cube/H1qxGMy7Y
@@ -13,7 +15,6 @@ https://sites.google.com/view/cplo-python
 ## 資料前處理
 
 [One hot encoding v.s. get dummies](https://medium.com/@PatHuang/%E5%88%9D%E5%AD%B8python%E6%89%8B%E8%A8%98-3-%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86-label-encoding-one-hot-encoding-85c983d63f87)
-
 
 ## Numpy
 
