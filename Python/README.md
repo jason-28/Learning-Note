@@ -86,4 +86,4 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 
 [LogisticRegression參數說明](https://blog.csdn.net/jark_/article/details/78342644)
 
-
+[金融風控建模](https://zhuanlan.zhihu.com/p/550787979?utm_id=0)
