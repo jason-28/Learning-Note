@@ -91,3 +91,5 @@ https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%
 [TensorFlow教學](https://ithelp.ithome.com.tw/articles/10187702)
 
 [TensorFlow官網](https://www.tensorflow.org/overview?hl=zh-tw)
+
+[量化分析](https://medium.com/%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B8%96%E7%B4%80%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90%E8%A6%81%E6%80%8E%E9%BA%BC%E5%81%9A-%E7%B5%A6%E5%85%A5%E9%96%80%E6%96%B0%E6%89%8B%E7%9A%84%E5%8F%83%E8%80%83%E6%B5%81%E7%A8%8B%E8%88%87faq-2c42d72ae47b)
