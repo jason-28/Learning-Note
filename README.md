@@ -190,6 +190,8 @@
 
 ## [Airbnb價錢預測(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/Airbnb%E5%83%B9%E9%8C%A2%E9%A0%90%E6%B8%AC.ipynb)
 
+## [公開氣象資料自動化爬取(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/%E6%B0%A3%E8%B1%A1%E8%A7%80%E6%B8%AC%E8%B3%87%E6%96%99%E8%87%AA%E5%8B%95%E5%8C%96%E7%88%AC%E8%9F%B2.ipynb)
+
 ## [Wine資料集SVM練習(Python)](https://github.com/jason-28/Learning-Note/blob/main/Python/ML8.ipynb)
 
 # 筆記:
