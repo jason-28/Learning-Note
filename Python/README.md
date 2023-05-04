@@ -40,6 +40,10 @@ https://kknews.cc/zh-tw/news/qv5v58g.html
 
 https://medium.com/%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E4%B8%8D%E6%98%AF%E5%80%8B%E4%BA%8B/%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96%E6%95%99%E7%A8%8B%E4%BE%86%E4%BA%86-252919addd73
 
+## 爬蟲
+
+### [Selenium教學](https://hackmd.io/@FortesHuang/S1V6jrvet#Python-Selenium-with-VSCODE-%E6%95%99%E5%AD%B8%E7%AD%86%E8%A8%98)
+
 ## 機器學習
 
 ### [KNN Note](https://github.com/jason-28/Learning-Note/blob/main/Python/KNN%E7%9B%B8%E9%97%9C.ipynb)
