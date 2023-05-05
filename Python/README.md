@@ -34,6 +34,8 @@ https://medium.com/jimmy-wang/python-numpy-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-
 
 ### [Pandas Note](https://github.com/jason-28/Learning-Note/blob/main/Python/Pandas%E7%9B%B8%E9%97%9C.ipynb)
 
+[樞紐分析](https://www.learncodewithmike.com/2022/02/pandas-pivot-table.html)
+
 https://zhuanlan.zhihu.com/p/38184619
 
 https://kknews.cc/zh-tw/news/qv5v58g.html
